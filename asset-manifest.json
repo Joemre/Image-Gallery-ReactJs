@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-Gallery-ReactJs/static/css/main.fc4014b5.css",
+    "main.js": "/Image-Gallery-ReactJs/static/js/main.828d06be.js",
+    "index.html": "/Image-Gallery-ReactJs/index.html",
+    "main.fc4014b5.css.map": "/Image-Gallery-ReactJs/static/css/main.fc4014b5.css.map",
+    "main.828d06be.js.map": "/Image-Gallery-ReactJs/static/js/main.828d06be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4014b5.css",
+    "static/js/main.828d06be.js"
+  ]
+}
